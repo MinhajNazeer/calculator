@@ -7,7 +7,7 @@ This is a basic Python program that performs arithmetic operations such as addit
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/MinhajNazeer/calculator.git
 
 
 2. Navigate to the project directory:
